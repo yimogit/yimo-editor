@@ -2,6 +2,8 @@
 
 此项目为 [wangEditor2.0](https://github.com/wangfupeng1988/wangEditor/tree/v2) Fork 后的涂鸦项目，目的是为了在项目中更好的使用,根据自己的业务去做一些调整和升级
 
+[![Build Status](https://travis-ci.org/yimogit/yimo-editor.svg?branch=master)](https://travis-ci.org/yimogit/yimo-editor)
+
 ## 关于项目改造
 
 - [x] 改了名字使用 travis-ci 发布到 npm
