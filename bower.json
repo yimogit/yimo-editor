@@ -1,0 +1,11 @@
+{
+  "name": "yimo-editor",
+  "description": "yimo-editor - 基于wangEditor-v2.0,根据自己的业务去做一些调整和升级",
+  "main": "dist/js/yimo-editor.js",
+  "authors": ["yimo <wsyimo@qq.com>"],
+  "license": "MIT",
+  "keywords": ["wangEditor", "富文本编辑器", "yimo-editor"],
+  "homepage": "https://github.com/yimogit/yimo-editor",
+  "moduleType": ["amd", "cmd", "node"],
+  "private": true
+}
